@@ -61,7 +61,7 @@
     "@superset-ui/legacy-plugin-chart-histogram": "^0.10.11",
     "@superset-ui/legacy-plugin-chart-horizon": "^0.10.11",
     "@superset-ui/legacy-plugin-chart-iframe": "^0.10.11",
-    "@superset-ui/legacy-plugin-chart-map-box": "^0.10.11",
+    "@superset-ui/legacy-plugin-chart-map-box": "^2.1.0",
     "@superset-ui/legacy-plugin-chart-markup": "^0.10.11",
     "@superset-ui/legacy-plugin-chart-paired-t-test": "^0.10.11",
     "@superset-ui/legacy-plugin-chart-parallel-coordinates": "^0.10.11",
