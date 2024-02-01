@@ -12,7 +12,7 @@ attrs==19.1.0             # via jsonschema
 babel==2.6.0              # via flask-babel
 billiard==3.5.0.4         # via celery
 bleach==3.0.2
-celery==4.2.0
+celery==4.4.0rc5
 certifi==2018.8.24        # via requests
 cffi==1.11.5              # via cryptography
 chardet==3.0.4            # via requests
@@ -20,7 +20,7 @@ click==6.7
 colorama==0.3.9
 contextlib2==0.5.5
 croniter==0.3.29
-cryptography==2.4.2
+cryptography==42.0.2
 decorator==4.3.0          # via retry
 defusedxml==0.5.0         # via python3-openid
 flask-appbuilder==2.1.5
