@@ -93,7 +93,7 @@
     "d3-selection": "^1.3.2",
     "deck.gl": "^5.3.5",
     "dnd-core": "^2.6.0",
-    "dompurify": "^1.0.3",
+    "dompurify": "^2.5.0",
     "geolib": "^2.0.24",
     "immutable": "^3.8.2",
     "jquery": "3.1.1",
