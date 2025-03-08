@@ -23,7 +23,7 @@ croniter==0.3.29
 cryptography==2.4.2
 decorator==4.3.0          # via retry
 defusedxml==0.5.0         # via python3-openid
-flask-appbuilder==2.1.5
+flask-appbuilder==4.5.3
 flask-babel==0.11.1       # via flask-appbuilder
 flask-caching==1.4.0
 flask-compress==1.4.0
@@ -41,7 +41,7 @@ humanize==0.5.1
 idna==2.6
 isodate==0.6.0
 itsdangerous==0.24        # via flask
-jinja2==2.10.1            # via flask, flask-babel
+jinja2==3.1.6            # via flask, flask-babel
 jsonschema==3.0.1         # via flask-appbuilder
 kombu==4.2.1              # via celery
 mako==1.0.7               # via alembic
